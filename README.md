@@ -6,3 +6,5 @@ git remote -v
 Question 2: how many students are in or were in the air force
 2
 
+Question 3: How many and what parts of a HTML document
+3 parts, HTML version info, head, and body
